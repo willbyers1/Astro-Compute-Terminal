@@ -1,32 +1,5 @@
-
-# 🛰️ ASTRO-COMPUTE TERMINAL v2.5.0-ALPHA
-
-### [ ACCESS GRANTED ] — NAV-BRIDGE SYSTEMS ONLINE
-
-The **Astro-Compute Terminal** is a mission-critical physics unit converter designed for interstellar navigation, high-energy astrophysics, and subatomic research. Powered by a high-precision decimal engine, it provides the accuracy required for relativistic trajectory calculations.
-
-![System Status](https://img.shields.io/badge/Status-Operational-00fff2?style=for-the-badge)
-![Encryption](https://img.shields.io/badge/Encryption-Standard_Military-ffae00?style=for-the-badge)
-![Version](https://img.shields.io/badge/Core_Engine-Decimal.js-ff3333?style=for-the-badge)
-
-## 🛠 CORE CAPABILITIES
-
-- **Universal Distances:** Scale from the Planck Length ($\ell_P$) to the limits of the observable universe (Mpc).
-- **Celestial Masses:** Compute mass equivalents from electrons to supermassive black holes (Solar Masses).
-- **Relativistic Dynamics:** Monitor velocity in $c$ fractions and warp factors. Automatic detection of Relativistic Time Dilation.
-- **High-Energy Calibration:** Convert Joules to Electronvolts or Supernova equivalents.
-
-## 🚀 DEPLOYMENT PROTOCOL
-
-1.  **Initialize Systems:** Clone the repository.
-2.  **Calibration:** Adjust "Sensor Calibration" for desired precision (up to 25 decimals).
-3.  **Operation:** Input scalar values and select origin/destination vectors.
-
-## ⚠️ TECHNICAL WARNINGS
-
-- **RELATIVISTIC LIMITS:** Input velocities exceeding $0.99c$ will trigger structural integrity alerts.
-- **THERMODYNAMICS:** Temperatures below $0\text{ K}$ indicate localized temporal anomalies.
-
----
-
-*Designed for the United Earth Space Command. Unauthorized replication is a violation of the Outer Space Treaty of 1967.*
+🚀 Astro-Compute Terminal"Precision at Cosmic Scales. Navigate the Universe with Mathematical Certainty."Astro-Compute Terminal, sadece bir birim dönüştürücü değil; fizikçiler, astronomlar ve mühendisler için tasarlanmış yüksek hassasiyetli bir "Yıldız Gemisi Arayüzü"dür (Sci-Fi HUD). Geleneksel hesap makinelerinin aksine, Planck uzunluğundan ışık yılına kadar evrenin tüm ölçeklerini kapsayan devasa bir veri seti sunar.📸 Project Preview(Buraya kendi uygulamanın ekran görüntülerini ekleyebilirsin)<img width="1366" height="768" alt="Astro-Compute Dashboard" src="https://via.placeholder.com/1366x768.png?text=Astro-Compute+Dashboard+Preview" /><img width="1366" height="768" alt="Conversion Logic" src="https://via.placeholder.com/1366x768.png?text=High+Precision+Telemetry" />📖 OverviewAstro-Compute Terminal, karmaşık fizik birimlerini dönüştürmek için geliştirilmiş, istemci taraflı (client-side) bir web uygulamasıdır. Cyberpunk/Space-Opera estetiğiyle tasarlanan arayüz, kullanıcılara bir uzay gemisi kokpitindeymiş hissi verirken; arka planda çalışan Decimal.js motoru ile kayan nokta (floating-point) hatalarını sıfıra indirir.Proje, özellikle akademik gereksinimlere uygun olarak matematiksel ifadeleri kesirli formlarda ($L/T$, $M/V$) gösterecek şekilde optimize edilmiştir.✨ Key Features⚛️ Multidimensional Data Engine: Astrofizik, Kinematik, Enerji ve Kütle kategorilerinde yüzlerce birim arası geçiş.🎯 Ultra-High Precision: decimal.js entegrasyonu sayesinde 20+ basamağa kadar hassasiyet kontrolü (Sensor Calibration).🌌 Sci-Fi HUD Experience: Glow efektleri, cam morfolojisi (glassmorphism) ve neon vurgularla donatılmış sürükleyici uzay teması.📏 Fractional Logic Display: Temiz bölme işlemlerinde sonuçları matematiksel kesir formatında görüntüleme opsiyonu.🛰️ Real-Time Telemetry: Yapılan her işlemin $\LaTeX$ formatındaki formülünü ve hesaplama adımlarını anlık olarak raporlar.📜 Mission Log (History): Son 15 dönüşümü yerel depolama (Local Storage) üzerinde saklar ve tek tıkla kopyalama imkanı sunar.🛠️ Tech StackCore Framework: React 18+ with ViteType Safety: TypeScript (Strict Mode)Mathematical Precision: Decimal.js & Big.jsStyling: Tailwind CSS with custom neon-glow extensionsAnimations: Framer Motion🚀 Getting StartedBu terminali kendi yerel sisteminde başlatmak için:Depoyu klonla:Bashgit clone https://github.com/KULLANICI_ADIN/Astro-Compute.git
+Proje dizinine git:Bashcd Astro-Compute
+Bağımlılıkları yükle:Bashnpm install
+Uygulamayı çalıştır:Bashnpm run dev
+🎮 UsageSector Selection: Üst panelden dönüştürmek istediğin kategoriyi (Distance, Mass, Velocity, Energy) seç.Vector Configuration: Giriş değerini yaz ve birimleri belirle.Sensor Calibration: Hassasiyet sürgüsünü kullanarak kaç basamak görmek istediğini ayarla.Log Trajectory: Hesaplamayı yap ve sonuçları "Recent Trajectories" panelinden takip et.🛡️ Privacy NoteTüm hesaplamalar istemci tarafında gerçekleşir. Hiçbir veri veya hesaplama geçmişi harici bir sunucuya gönderilmez; tamamen tarayıcı belleğinde işlenir.🤝 ContributingGelişmiş fizik formülleri veya yeni birimler eklemek isterseniz:Projeyi Fork'layınÖzellik dalınızı oluşturun (git checkout -b feature/NewConstant)Değişikliklerinizi commit edin (git commit -m 'Add Planck units')Dalınıza Push yapın (git push origin feature/NewConstant)Bir Pull Request açın📄 LicenseMIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için LICENSE dosyasına bakınız.<div align="center">LAUNCH TERMINALCreated by Mert Batu Bülbül💻 Bitlis Eren University - Computer Engineering Freshman (1st Year) 💻</div>
