@@ -13,8 +13,8 @@
 ---
 
 ## 📸 Project Preview
-<img width="1366" height="768" alt="Astro-Compute Terminal UI" src="https://raw.githubusercontent.com/willbyers1/Astro-Compute-Terminal/main/preview.png" />
-*(Note: Replace the link above with your actual repository image link or use the one you sent me)*
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b35d8ac0-1a48-48a8-ae1c-252d70c9b272" />
 
 ## 📖 Overview
 Astro-Compute Terminal is a professional educational tool that handles astronomical distances and physics data with zero floating-point errors. Built with a stunning **Neon-Dark/Terminal** aesthetic, it utilizes **Decimal.js** to evaluate and convert units like *Light Years, Astronomical Units (AU), Parsecs, and the Speed of Light.*
