@@ -1,0 +1,5 @@
+{
+  "name": "Astro-Compute Terminal",
+  "description": "A high-precision physics unit converter designed with an immersive starship HUD aesthetic, supporting cosmic distances, celestial masses, and relativistic velocities.",
+  "requestFramePermissions": []
+}
