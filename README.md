@@ -88,6 +88,6 @@ If the link doesn't work, here is the URL:
 **https://willbyers1.github.io/Astro-Compute-Terminal/**
 
 **Created by Mert Batu Bülbül**
-💻 Computer Engineering Freshman (1st Year Student) 💻
+💻 Computer Engineering Student (2nd Year) 💻
 
 </div>
